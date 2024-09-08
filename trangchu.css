@@ -1,0 +1,15 @@
+a {
+    color: #000;
+}
+
+.cointainer1 {
+    gap: 40px;
+    display: flex;
+}
+
+.money1 {
+    margin-top: -15px;
+    gap: 100px;
+    display: flex;
+}
+
